@@ -13,5 +13,13 @@
   "dependencies": {
     "dotenv": "^17.4.2",
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VyshnaviManchikanti/AmadaCanada-Intranet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VyshnaviManchikanti/AmadaCanada-Intranet/issues"
+  },
+  "homepage": "https://github.com/VyshnaviManchikanti/AmadaCanada-Intranet#readme"
 }
